@@ -1,5 +1,5 @@
 
-# Running the script
+# How to run this script
 - Clone this [repository](https://github.com/malduarte/getdata015-project)
 - Run `Rscript run_analysis.R`
 - The tidy dataset should get created in the current directory as `tidy.txt`
